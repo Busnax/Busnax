@@ -9,7 +9,7 @@ SQL: Learning database management and query optimization.
 💻 My Projects
 Bank Management System: A Java-based application simulating banking operations such as account creation, deposits, withdrawals, and monthly billing through accountables.
 📫 How to Reach Me
-Feel free to connect with me via GitHub or reach out at [your-email@example.com].
+Feel free to connect with me via GitHub or reach out at ale8103@outlook.it
 🛠️ Tools & Technologies
 Languages: Java, MATLAB, SQL, C
 Tools: GitHub, Git, GitHub Desktop App, Visual Studio Code, IntelliJ IDEA, Eclipse
