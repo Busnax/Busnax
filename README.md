@@ -1,4 +1,4 @@
-Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile!
 Hello! I'm Alessandro, a passionate software developer and computer engineering student. Here, you’ll find various projects that reflect my journey through programming.
 
 🌱 What I’m Currently Learning
