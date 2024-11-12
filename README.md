@@ -21,9 +21,9 @@ Feel free to connect with me via GitHub or reach out at ale8103@outlook.it
 
 🛠️ Tools & Technologies
 
-Languages: Java, MATLAB, SQL, C
+Languages: Java, MATLAB, SQL, C, Assembly
 
-Tools: GitHub, Git, GitHub Desktop App, Visual Studio Code, IntelliJ IDEA, Eclipse
+Tools: GitHub, Git, GitHub Desktop App, Visual Studio Code, IntelliJ IDEA, Eclipse, QTSPIM.
 
 <!---
 Busnax/Busnax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
